@@ -1,6 +1,6 @@
 # Noisy
-My playground workspace for my bachelor 🎓 thesis!  
---------------
+***My playground workspace for my bachelor 🎓 thesis!***
+
 I am continually updating the codes, here is some to-do like list ☕
 
 - [x] Create index from timestamps.
