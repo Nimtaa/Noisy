@@ -1,10 +1,18 @@
 # Noisy
-***My playground workspace for my bachelor 🎓 thesis!***
+***Repository of my Bachelor Thesis Project 🎓 Driver Behavior Recognition, using Inertial Signals***
 
-I am continually updating the codes, here is some to-do like list ☕
+I am continually updating the repo, the following is a to-do like list ☕
 
-- [x] Create index from timestamps.
-- [x] Setup the learning phase with the help of Neural Networks.
-- [x] Transfer the coordinate system from device to earth.
-- [ ] Implement a module to detects the right position and translates the coordinate system automatically.
-- [ ] Test the classificatin model (So far, I have tested the logistic regression)
+- [x] Working with [Driver Behavior Dataset](https://github.com/jair-jr/driverBehaviorDataset)
+	- [x] Creating index from timestamps
+	- [x] Finding patterns of the basic driving actions
+	- [x] Feature extraction aggressive actions
+- [x] Collecting driving data
+- [x] Transferring the coordinate system from device to Earth
+- [x] Developing classification algorithms using LSTM Networks to detect driving actions
+- [x] Post-processing
+	- [x] Extracting valid events
+	- [x] Determining the severity of events
+	- [x] Designing a statistical model to score driving journey
+
+
